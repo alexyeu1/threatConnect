@@ -1,0 +1,14 @@
+{
+  "name": "threatconnect",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "dependencies": {
+    "cypress": "^10.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
